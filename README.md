@@ -1,3 +1,4 @@
+'''
 students =[]
 for _ in range(int(input())):
     name = input()
@@ -29,3 +30,4 @@ for item in students:
 names.sort()
 for i in names:
     print(i)
+'''
